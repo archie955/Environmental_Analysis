@@ -2,3 +2,4 @@ envvenv
 __pycache__
 data
 new_data
+.env
